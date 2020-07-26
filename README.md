@@ -5,6 +5,7 @@ Intent: A quarantine is currently required when returning to germany if in the c
 
 Keep in mind: the inofficial calculations used by this repository are not relevant for officials, but the data gathered by RKI! Therefore, the data visualized by `7d-corona.xlsx` can only be an indicator! **Ultimately relevant are the [values published by german RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html) and the state of living (e.g. [Baden-Württemberg](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/verordnungen/risikogebiete/)).**
 
+![7d-corona.png](7d-corona.png)
 
 ## Data sources
 ## European Centre for Disease Prevention and Control (ECDC)
