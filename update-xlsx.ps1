@@ -26,6 +26,7 @@ $chartName = "Neuinfektionen"
 $sheetCountryMap = @{
     "ECDC Deutschland" = "germany"
     "ECDC Frankreich" = "france"
+    "ECDC Italien" = "italy"
     "ECDC Spanien" = "spain"
     "ECDC Österreich" = "austria"
     "ECDC Schweiz" = "switzerland"
