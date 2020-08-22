@@ -71,6 +71,7 @@ function Get-DataFromEcdc() {
 $now = Get-Date -format "dddd yyyy-MM-dd HH:mm"
 $lastUpdate = "Datenabruf: $now"
 
+[System.Reflection.Assembly]::LoadWithPartialName("Microsoft.Office.Interop.Excel") | Out-Null
 $excel = New-Object -ComObject Excel.Application
 try {
     $excel.Visible = $true
