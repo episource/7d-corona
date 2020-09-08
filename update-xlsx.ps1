@@ -30,6 +30,7 @@ $sheetCountryMap = @{
     "ECDC Spanien" = "spain"
     "ECDC Österreich" = "austria"
     "ECDC Schweiz" = "switzerland"
+    "ECDC Portugal" = "portugal"
 }
 
 
