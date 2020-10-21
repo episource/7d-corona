@@ -34,7 +34,7 @@ $sheetCountryMap = @{
 }
 
 
-$queryUrlEcdc = "https://opendata.ecdc.europa.eu/covid19/casedistribution/csv"
+$queryUrlEcdc = "https://opendata.ecdc.europa.eu/covid19/casedistribution/csv/data.csv"
 
 
 function Update-EcdcSheet($sheet, $data, $country, $lastUpdate) {
